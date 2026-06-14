@@ -1,0 +1,3 @@
+Square Hospital,Dhaka,0171111111,Cardiology
+Evercare,Basundhara,0182233333,Gynocologist
+United Hospital,Gulshan,019375833,Hemotologist

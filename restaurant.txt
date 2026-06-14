@@ -1,0 +1,4 @@
+KFC,Dhaka,01857853739,Fast Food,100
+KFC,Dhaka,01857853739,Fast Food,100
+Pizza Hut,Narayanganj,01983754522,Italian,80
+Domino's Pizza,Uttara,018256483323,Italian,70
